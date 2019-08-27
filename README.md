@@ -10,7 +10,7 @@ The course content is intended for the demonstration and testing of the WET-BOEW
 
 Copyright 2019 TNG Consulting Inc. All rights reserved.<br>
 Course developed by: Michael Milette<br>
-Initial Release: 0.1 ALPHA, August 9, 2019
+Initial Release: 0.1 ALPHA, August 9, 2019<br>
 Release: 0.2 ALPHA, August 27, 2019
 
 This project is based on the WET-BOEW Working Examples Style Guide project which can be found at:
